@@ -304,3 +304,58 @@ body{
     color:rgb(33, 33, 243);
     padding:0px 2px 0px 2px;
 }
+.fa-twitter{
+    color:rgb(27, 88, 255);
+}
+.contact{
+    height:400px;
+    background-color: #000;
+    padding:10px;
+    color:white;
+    font-family:Montserrat;
+    font-size:30px;
+    
+}
+.inputfield{
+    width:20%;
+}
+.text-area{
+    width:40%;
+}
+.footer-text{
+    margin-left:30px;
+}
+.footerlogo{
+    opacity:1;
+    font-family:'Zen dots' , cursive;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:100%;
+    height:100%;
+    transition:ease-out .09s;
+    align-items:center;
+    text-align: center;
+    outline:none;
+    text-decoration:none;
+    color:red;
+    
+}
+.footerlogo:hover{
+    font-size:40px;
+    color:blueviolet;
+}
+.submit{
+    border:3px solid red;
+    color:white;
+    text-decoration:none;
+    border-radius:50px;
+    font-size:20px;
+    padding:2px 7px;
+    transition:ease-out 0.2s;
+}
+.submit:hover{
+    color:white;
+    background-color: red;
+    font-size: 21px;
+}
