@@ -43,7 +43,7 @@ body{
 }
 
 .top-wrapper{
-    width:1170px;
+    width:70%;
     margin:0 auto;
     background-color:blueviolet;
     display:flex;
@@ -57,14 +57,14 @@ body{
     margin-bottom:40px;
 }
 .top-wrapper h1{
-    font-size:45px;
+    font-size:40px;
     font-family: 'Roboto Mono', monospace;
     text-align:center;
     margin-bottom:30px;
     transition:ease-out 0.2s;
 }
 .top-wrapper h1:hover{
-    font-size:50px;
+    font-size:45px;
 }
 .dot{
     color:red;
@@ -99,7 +99,7 @@ body{
     color:red;
 }
 .solution{
-    width:1170px;
+    width:70%px;
     text-align:center;
     margin:0 auto;
     color:white;
@@ -279,7 +279,7 @@ body{
     background-color: white;
     border:10px solid blueviolet;
     border-radius: 150px;
-    width:1170px;
+    width:70%;
     margin:0 auto;
     font-family:Montserrat;
     color:blueviolet;
@@ -315,6 +315,7 @@ body{
     color:white;
     font-family:Montserrat;
     font-size:30px;
+    width:100%;
     
 }
 .inputfield{
