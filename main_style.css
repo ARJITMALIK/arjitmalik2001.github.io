@@ -5,7 +5,6 @@ body{
     background-size:cover;
     background-color:blueviolet;
 }
-@media(max-width:1920px){
 .header{
     position:sticky;
     top:0px;
@@ -360,22 +359,4 @@ body{
     color:white;
     background-color: red;
     font-size: 21px;
-}
-}
-
-@media(max-width:670px){
-    .top-wrapper{
-        width:80%px;
-        font-size:50px;
-    }
-    .top-wrapper h1{
-        font-size:20px;
-        font-family: 'Roboto Mono', monospace;
-        text-align:center;
-        margin-bottom:30px;
-        transition:ease-out 0.2s;
-    }
-    .top-wrapper h1:hover{
-        font-size:25px;
-    }
 }
