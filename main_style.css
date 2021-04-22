@@ -5,6 +5,7 @@ body{
     background-size:cover;
     background-color:blueviolet;
 }
+@media(max-width:1920px){
 .header{
     position:sticky;
     top:0px;
@@ -41,6 +42,7 @@ body{
     cursor:pointer;
     color:white;
 }
+
 .top-wrapper{
     width:1170px;
     margin:0 auto;
@@ -359,9 +361,11 @@ body{
     background-color: red;
     font-size: 21px;
 }
+}
+
 @media(max-width:670px){
     .top-wrapper{
-        width:80%;
+        width:80%px;
         font-size:50px;
     }
     .top-wrapper h1{
