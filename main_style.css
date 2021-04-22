@@ -228,7 +228,7 @@ body{
 .signup{
     border:none;
     border-radius:50px;
-    width:1170px;
+    width:100%;
     margin:30px auto;
     text-align:center;
     color:white;
