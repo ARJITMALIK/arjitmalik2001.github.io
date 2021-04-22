@@ -15,5 +15,5 @@ Technologies used - VS code for editing
                     google for images
                     self constructed author image
                     github publishing
-Github repo - 
+Github repo -       https://github.com/ARJITMALIK/arjitmalik2001.github.io
 Github page link - https://arjitmalik.github.io/arjitmalik2001.github.io/siliconmosta.html
